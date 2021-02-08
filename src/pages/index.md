@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/pexels-dmitry-demidov-3784566.jpg
+    image: images/H6vEkJ5g.jpg
     image_alt: App preview
     title: Music Industry Tools And Tips
     content: >-
