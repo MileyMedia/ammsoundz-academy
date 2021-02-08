@@ -40,7 +40,8 @@
                 "image": "images/miley-media-text-white.png",
                 "image_url": "mileymedia.com",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "content": "Stackbit theme demo",
+                "title": "Miley Media Text"
             },
             {
                 "type": "footer_nav",
