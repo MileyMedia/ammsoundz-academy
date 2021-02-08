@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/pexels-david-bartus-690779.jpg
+    image: images/cd-baby-banner.jpg
     image_alt: App preview
     title: Music Industry Tools And Tips
     content: >-
