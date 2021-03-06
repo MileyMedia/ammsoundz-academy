@@ -146,5 +146,6 @@
         ]
     },
     "title": "Azimuth",
-    "domain": "https://ammsoundz-academy-365a1.netlify.app"
+    "domain": "https://ammsoundz-academy-365a1.netlify.app",
+    "favicon": "images/curious-iron.jpg"
 }
