@@ -22,7 +22,7 @@ sections:
       quis lorem malesuada luctus.
     features:
       - title: Free Music Industry Tools & Resources!
-        image: images/feature1.png
+        image: images/8-81255_music-logo-design-png-transparent-png.png
         image_alt: App preview on a phone and tablet
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
