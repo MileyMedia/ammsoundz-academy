@@ -145,5 +145,6 @@
             }
         ]
     },
-    "title": "Azimuth"
+    "title": "Azimuth",
+    "domain": "https://ammsoundz-academy-365a1.netlify.app"
 }
