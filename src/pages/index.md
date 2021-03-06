@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/cd-baby-banner.jpg
+    image: images/waves-plugin-pic1.jpg
     image_alt: App preview
     title: Make Better Music And Learn To Rock!
     content: >-
