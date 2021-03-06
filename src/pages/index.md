@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/cd-baby-banner.jpg
     image_alt: App preview
-    title: Music Industry Tools And Tips
+    title: Make Better Music And Learn To Rock!
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
